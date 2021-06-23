@@ -1,0 +1,6 @@
+rall(Log) gives the vector comprising of 5 different R2 values:
+Efron
+McFadden
+Cox-Snell
+Nagelkerke
+Tjur
